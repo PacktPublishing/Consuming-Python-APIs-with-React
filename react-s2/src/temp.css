@@ -1,0 +1,33 @@
+div.Comp1 {
+  background: blue;
+  color: white;
+  width: 50%;
+  margin: 10px;
+  padding: 3px;
+}
+
+div.Comp2 {
+  background: green;
+  color: white;
+  width: 30%;
+  margin: 10px;
+  padding: 3px;
+}
+
+div.About {
+  background: purple;
+  color: white;
+  width: 40%;
+  margin: 10px;
+  padding: 3px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.flex-container a {
+  color: yellow;
+}
