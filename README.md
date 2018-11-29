@@ -23,7 +23,6 @@ By the end of this course, you will have successfully integrated your Python web
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
 
 ●	Prior working knowledge of the JavaScript (ES6) language
 
@@ -35,11 +34,10 @@ To fully benefit from the coverage included in this course, you will need:
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
 
 ●	An editor like Atom, Sublime Text or Visual Studio Code
 
-This course has been tested on the following system configuration:
+### This course has been tested on the following system configuration:
 
 ●	OS: Windows 10
 
